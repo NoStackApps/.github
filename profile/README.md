@@ -10,6 +10,7 @@ We build and share open-source tools and apps powered by Google Apps Script, Goo
 | Repo | Description |
 |------|-------------|
 | [`nsa-sheets-db-builder`](https://github.com/NoStackApps/nsa-sheets-db-builder) | CLI that turns Google Sheets into structured databases with REST APIs |
+| [`nsa-mcp`](https://github.com/NoStackApps/nsa-mcp) | MCP server — lets LLMs interact with your Sheets databases with schema validation |
 
 ### Showcase Apps
 | Repo | Stack | Description |
